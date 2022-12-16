@@ -79,7 +79,7 @@ Final important thing, this is made with the support and love to and from Newgro
 Go to newgrounds, we love newgrounds. newgrounds good. How many times do I gotta damn say it. Newgrounds newgrounds newgrounds newgrounds
 I love Tom Fulp.
 
-- Cameron â™ª(Â´â–½ï½€)
+- Cameron ♪(´▽｀)
 
 ##################################################################################
                                                                                   
