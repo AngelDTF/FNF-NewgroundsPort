@@ -71,6 +71,7 @@ class CutsceneCharacter extends FlxTypedGroup<Dynamic>
 				ended();
 			}
 		};
+		add(spr);
 	}
 
 	function ended()
