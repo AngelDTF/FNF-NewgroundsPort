@@ -982,7 +982,7 @@ class PlayState extends MusicBeatState
 		new FlxVideo('music/ughCutscene.mp4').finishCallback = function()
 		{
 			remove(black);
-			FlxTween.tween(FlxG.camera, {zoom: defaultCamZoom}, (Conductor.stepCrochet / 1000) * 5, {ease: FlxEase.quadInOut});
+			FlxTween.tween(FlxG.camera, {zoom: defaultCamZoom}, (Conductor.crochet / 1000) * 5, {ease: FlxEase.quadInOut});
 			startCountdown();
 			cameraMovement();
 		};
@@ -1000,7 +1000,7 @@ class PlayState extends MusicBeatState
 		new FlxVideo('music/gunsCutscene.mp4').finishCallback = function()
 		{
 			remove(black);
-			FlxTween.tween(FlxG.camera, {zoom: defaultCamZoom}, (Conductor.stepCrochet / 1000) * 5, {ease: FlxEase.quadInOut});
+			FlxTween.tween(FlxG.camera, {zoom: defaultCamZoom}, (Conductor.crochet / 1000) * 5, {ease: FlxEase.quadInOut});
 			startCountdown();
 			cameraMovement();
 		};
@@ -1015,7 +1015,7 @@ class PlayState extends MusicBeatState
 		new FlxVideo('music/stressCutscene.mp4').finishCallback = function()
 		{
 			remove(black);
-			FlxTween.tween(FlxG.camera, {zoom: defaultCamZoom}, (Conductor.stepCrochet / 1000) * 5, {ease: FlxEase.quadInOut});
+			FlxTween.tween(FlxG.camera, {zoom: defaultCamZoom}, (Conductor.crochet / 1000) * 5, {ease: FlxEase.quadInOut});
 			startCountdown();
 			cameraMovement();
 		};
